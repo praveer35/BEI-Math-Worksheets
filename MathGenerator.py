@@ -1,3 +1,6 @@
+#### MATHGENERATOR.PY ####
+# Program that builds a math worksheet for the specific Google document with the Docs URL specified by the user
+
 from __future__ import print_function
 import os.path
 import os
