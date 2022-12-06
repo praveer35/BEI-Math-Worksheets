@@ -1,3 +1,6 @@
+#### MATHSECTION.PY ####
+# Builds math worksheets for all Google Documents in the Drive folder with the folder URL specified by the user
+
 from __future__ import print_function
 import os.path
 import os
